@@ -12,7 +12,9 @@ GraphRViewer was designed to make graphing functions for the user easily and acc
 To ensure this, we have designed a GUI interface that allows a user to enter their function requirements.
 We have also added features that allow the user to change the style of their graph.
 
+#Screenshot
 
+![screenshot showing env diagram](Screenshot1_ntxtf.png)
 
 #Concepts Demonstrated
 
